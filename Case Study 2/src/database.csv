@@ -1,0 +1,6 @@
+Account Number,PIN,Balance,IFSC Code,Name,Last Transaction,Second Last Transaction,Third Last Transaction
+12345,FjpPmFFS3n5QVTq/Vb0TMg==,108738.29,12234,James,You have Withdrawn Rs2000.0 on Wed Nov 11 16:24:45 IST 2020,Deposited Rs1000 on Tue Nov 10 16:32:52 IST 2020,Rs600.0Transferred to Account Number23456
+23456,lCY6fYI+j9WXPwxDCpo1og==,21100.15,22333,ABD,You got Rs600.0from Account Number12345,Deposited Rs500,No Transaction
+33452,W2BTxioORERGks+SU+eayA==,717000.36,64534,Rohit,No Transaction,No Transaction,No Transaction
+67348,K3cIk4zJGQDQF1a6TyTr9g==,546784.5,29872,Stokes,No Transaction,No Transaction,No Transaction
+ATM Cash,449000.0,
