@@ -9,7 +9,8 @@ The first screen has login option by account number and PIN.The second screen ha
 5. Get Mini Statement 
 6. ChangePIN
 7. Logout
-We can withdraw maximun Rs 40,000 in a transaction. When ATM don't have enough cash to complete a transaction, it will display a message that "ATM is out of Cash".
+
+ We can withdraw maximun Rs 40,000 in a transaction. When ATM don't have enough cash to complete a transaction, it will display a message that "ATM is out of Cash".
 
 Security
 ⦁	 Two Step Verification - An OTP is generated and is to be verified by user just before proccessing the transaction.
