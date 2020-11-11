@@ -1,4 +1,4 @@
-                                                                      Case Study 2 - ATM
+                                     Case Study 2 - ATM
                                                                       
 The attatched folder has .java files , .class files  and a .csv file which contain account details of all the users.
 The first screen has login option by account number and PIN.The second screen has options:
